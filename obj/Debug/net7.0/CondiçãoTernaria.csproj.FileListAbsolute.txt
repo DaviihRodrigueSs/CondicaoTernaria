@@ -1,0 +1,14 @@
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\bin\Debug\net7.0\CondiçãoTernaria.exe
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\bin\Debug\net7.0\CondiçãoTernaria.deps.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\bin\Debug\net7.0\CondiçãoTernaria.runtimeconfig.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\bin\Debug\net7.0\CondiçãoTernaria.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\bin\Debug\net7.0\CondiçãoTernaria.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\obj\Debug\net7.0\CondiçãoTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\obj\Debug\net7.0\CondiçãoTernaria.AssemblyInfoInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\obj\Debug\net7.0\CondiçãoTernaria.AssemblyInfo.cs
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\obj\Debug\net7.0\CondiçãoTernaria.csproj.CoreCompileInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\obj\Debug\net7.0\CondiçãoTernaria.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\obj\Debug\net7.0\refint\CondiçãoTernaria.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\obj\Debug\net7.0\CondiçãoTernaria.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\obj\Debug\net7.0\CondiçãoTernaria.genruntimeconfig.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\CondiçãoTernaria\obj\Debug\net7.0\ref\CondiçãoTernaria.dll
